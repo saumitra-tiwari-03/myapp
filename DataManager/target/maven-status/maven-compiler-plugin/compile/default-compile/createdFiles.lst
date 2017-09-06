@@ -1,0 +1,12 @@
+com\saumitra\adcc\datamanager\configuration\WebConfig.class
+com\saumitra\adcc\datamanager\jpa\LucknowRepo.class
+com\saumitra\adcc\datamanager\configuration\AppConfig.class
+com\saumitra\adcc\datamanager\controller\MasterController.class
+com\saumitra\adcc\datamanager\controller\DataManagerRestController.class
+com\saumitra\adcc\datamanager\service\TableViewService.class
+com\saumitra\adcc\datamanager\service\TableViewServiceImpl.class
+com\saumitra\adcc\datamanager\entity\TableView.class
+com\saumitra\adcc\datamanager\entity\Lucknow.class
+com\saumitra\adcc\datamanager\dto\TableViewDTO.class
+com\saumitra\adcc\datamanager\entity\Sitapur.class
+com\saumitra\adcc\datamanager\jpa\TableViewRepo.class
